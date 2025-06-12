@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibk14
+- 👋 Hi, I’m Ibk
 - 👀 I’m interested in Data analytics, uncovering insights through data-driven storytelling.
 - 🌱 I’m currently learning Advanced techniques in Python, SQL, Excel, Power BI, and data visualization for impactful reporting.
 - 💞️ I’m looking to collaborate on Data analytics projects, open-source datasets, or dashboards that solve real-world problems.
